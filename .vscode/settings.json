@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        ".env*": "dotenv",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
